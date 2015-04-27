@@ -116,8 +116,6 @@ Please follow the instructions at https://github.com/ga-wdi-boston/wdi_1_js_func
 
 ## Additional Resources
 
-List additional related resources such as videos, blog posts and official documentation.
-
 - https://en.wikipedia.org/wiki/Function_(mathematics)
 - https://en.wikipedia.org/wiki/Subroutine
 - http://en.wikipedia.org/wiki/Variable_shadowing
